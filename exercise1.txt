@@ -1,0 +1,4 @@
+hello this line contains a digit, see: 8.
+there are 365 days in a year.
+this line contains no digit.
+neither does this one.
